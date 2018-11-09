@@ -1,0 +1,16 @@
+PODS:
+  - YSAlgorithms (0.1.0)
+
+DEPENDENCIES:
+  - YSAlgorithms (from `../`)
+
+EXTERNAL SOURCES:
+  YSAlgorithms:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YSAlgorithms: 676dd25a0fd635369745bd86f2787afc55100b0c
+
+PODFILE CHECKSUM: 73094d6bfff57cdffb6aaaf3f5fd0455ac73a246
+
+COCOAPODS: 1.2.1

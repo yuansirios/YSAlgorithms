@@ -1,0 +1,6 @@
+framework module YSAlgorithms {
+  umbrella header "YSAlgorithms-umbrella.h"
+
+  export *
+  module * { export * }
+}
